@@ -1,0 +1,73 @@
+{
+  "manifestUrl": "https://make.fun/press/manifest.json",
+  "edition": "2026-11-21",
+  "aspect": "9:16",
+  "frame": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 60
+  },
+  "safeZone": {
+    "x": 120,
+    "y": 269,
+    "width": 840,
+    "height": 979
+  },
+  "referralCard": {
+    "transparentWebm": {
+      "file": "assets/press/makefun-card-9x16-transparent.webm",
+      "url": "https://make.fun/press/referral-card/9x16/makefun-card-9x16-transparent.webm",
+      "durationSeconds": 2.5,
+      "restSeconds": 1.433,
+      "bytes": 768936,
+      "sha256": "286b76c671fa3bf3b1580a7c71675d7b7e502f4fb374b56d30f1104044808cd1"
+    },
+    "opaqueMp4": {
+      "file": "assets/press/makefun-card-9x16.mp4",
+      "url": "https://make.fun/press/referral-card/9x16/makefun-card-9x16.mp4",
+      "durationSeconds": 3.0,
+      "bytes": 424250,
+      "sha256": "4b3b04e500003dbde8c5ada440128c2f7374a4bbc59f548c835625c407495221"
+    },
+    "field": {
+      "x": 153,
+      "y": 1174,
+      "width": 774,
+      "height": 194
+    },
+    "caret": {
+      "x": 210,
+      "y": 1232,
+      "width": 5,
+      "height": 78
+    },
+    "cover": {
+      "x": 208,
+      "y": 1230,
+      "width": 9,
+      "height": 82,
+      "color": "#ffffff"
+    },
+    "code": {
+      "x": 210,
+      "centreY": 1271,
+      "maxWidth": 510,
+      "font": "JetBrains Mono",
+      "fontWeight": 700,
+      "fontSizePx": 62,
+      "color": "#191419"
+    }
+  },
+  "brandBadge": {
+    "file": "assets/press/makefun-badge-9x16.png",
+    "url": "https://make.fun/press/brand-badge/9x16/makefun-badge-9x16.png",
+    "bytes": 22841,
+    "sha256": "5633c94aeb8773339950f41b9299586f0b5a13594b3076a0c50e8ab0541e9772",
+    "box": {
+      "x": 120,
+      "y": 272,
+      "width": 330,
+      "height": 128
+    }
+  }
+}
