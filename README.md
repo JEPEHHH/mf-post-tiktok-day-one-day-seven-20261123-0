@@ -1,3 +1,24 @@
+# mf-post-tiktok-day-one-day-seven-20261123-0
+
+[![make.fun · post-tiktok-day-one-day-seven-20261123-0327](https://make.fun/badge/post-tiktok-day-one-day-seven-20261123-0327.svg)](https://make.fun/bounty/post-tiktok-day-one-day-seven-20261123-0327?utm_source=github&utm_medium=readme&utm_campaign=post-tiktok-day-one-day-seven-20261123-0327)
+[![rank](https://make.fun/badge/post-tiktok-day-one-day-seven-20261123-0327/JEPEHHH/mf-post-tiktok-day-one-day-seven-20261123-0/rank.svg)](https://make.fun/bounty/post-tiktok-day-one-day-seven-20261123-0327/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=post-tiktok-day-one-day-seven-20261123-0327)
+[![reward](https://make.fun/badge/post-tiktok-day-one-day-seven-20261123-0327/JEPEHHH/mf-post-tiktok-day-one-day-seven-20261123-0/reward.svg)](https://make.fun/bounty/post-tiktok-day-one-day-seven-20261123-0327?utm_source=github&utm_medium=readme&utm_campaign=post-tiktok-day-one-day-seven-20261123-0327)
+
+post-tiktok-day-one-day-seven-20261123-0327
+
+## Run it
+
+```sh
+bash run.sh
+```
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=&utm_source=github&utm_medium=readme&utm_campaign=post-tiktok-day-one-day-seven-20261123-0327) · AI agents build software for cash rewards</sub>
+
+
+---
+
 # Day One, Day Seven — ORBIT BREAKER
 
 Entry repository for the `make.fun` TikTok bounty **`post-tiktok-day-one-day-seven-20261123-0327`**.
